@@ -1,0 +1,36 @@
+body{
+    background-image: url("a.jpeg");
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-size: cover ;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+button{
+    background-color: rgb(255, 240, 105);
+    justify-self: center;
+    
+}
+
+input{
+    width: 100%;
+    padding: 10px 12px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    transition: border-color ;
+}
+label{
+    bottom: 50pc;
+    size: 10cm;
+}
+
+
+h2 {
+    color: #040404;
+    margin-bottom: 100px;
+}
