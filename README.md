@@ -4,7 +4,6 @@ A simple web-based fun application to calculate the "friendship percentage" betw
 
 ## 🧩 Features
 
-
 - Enter your name and your friend’s name.
 - Randomly generates a “friendship percentage”.
 - Displays a fun message with the result.
