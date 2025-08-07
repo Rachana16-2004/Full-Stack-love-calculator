@@ -25,8 +25,6 @@ A simple web-based fun application to calculate the "friendship percentage" betw
 ## 📝 How to Use
 
 1. Clone the repository:
-
-   ```bash
    git clone https://github.com/your-username/friendship-calculator.git
 Open index.html in your browser.
 
