@@ -3,7 +3,7 @@
 A simple web-based fun application to calculate the "friendship percentage" between two people. Built using HTML, CSS, and JavaScript. 
 
 ## 🧩 Features  
-       
+        
 - Enter your name and your friend’s name.   
 - Randomly generates a “friendship percentage”.    
 - Displays a fun message with the result.  
