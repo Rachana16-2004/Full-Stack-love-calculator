@@ -16,7 +16,7 @@ A simple web-based fun application to calculate the "friendship percentage" betw
 ├── script.js # Logic to calculate friendship
 ├── a.jpeg # Background image (not included here)
 
-## 🛠 Technologies Used
+## 🛠 Technologies Used 
 
 - HTML5
 - CSS3
