@@ -10,7 +10,7 @@ A simple web-based fun application to calculate the "friendship percentage" betw
 - Styled with a background image and clean UI.   
   
 ## 📂 Project Structure
-  
+   
 ├── index.html # Main HTML file
 ├── style.css # Styling (background, input, button) 
 ├── script.js # Logic to calculate friendship
