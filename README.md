@@ -8,7 +8,7 @@ A simple web-based fun application to calculate the "friendship percentage" betw
 - Randomly generates a “friendship percentage”.    
 - Displays a fun message with the result.   
 - Styled with a background image and clean UI.   
-  
+   
 ## 📂 Project Structure
    
 ├── index.html # Main HTML file
